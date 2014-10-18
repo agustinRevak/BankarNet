@@ -2014,8 +2014,8 @@
 											"parentStyle": true,
 											"containerChangeable": false,
 											"containerExtending": true,
-											"left": -12,
-											"top": -24,
+											"left": 36,
+											"top": -36,
 											"width": 0,
 											"height": 13,
 											"autoResize": false,
@@ -2038,8 +2038,8 @@
 											"parentStyle": true,
 											"containerChangeable": false,
 											"containerExtending": true,
-											"left": 249,
-											"top": 111,
+											"left": 265,
+											"top": 107,
 											"width": 195,
 											"height": 13,
 											"autoResize": false,
@@ -2063,8 +2063,8 @@
 											"parentStyle": true,
 											"containerChangeable": false,
 											"containerExtending": true,
-											"left": -12,
-											"top": -24,
+											"left": 36,
+											"top": -36,
 											"width": 72,
 											"height": 13,
 											"autoResize": false,
@@ -2088,8 +2088,8 @@
 											"parentStyle": true,
 											"containerChangeable": false,
 											"containerExtending": true,
-											"left": -12,
-											"top": -24,
+											"left": 36,
+											"top": -36,
 											"width": 0,
 											"height": 13,
 											"autoResize": false,
@@ -2107,8 +2107,8 @@
 									"parentStyle": true,
 									"containerChangeable": false,
 									"containerExtending": true,
-									"left": 244,
-									"top": 104,
+									"left": 260,
+									"top": 100,
 									"width": 205,
 									"height": 25,
 									"autoResize": false,
@@ -2135,8 +2135,8 @@
 							"parentStyle": false,
 							"containerChangeable": false,
 							"containerExtending": true,
-							"left": 244,
-							"top": 104,
+							"left": 260,
+							"top": 100,
 							"width": 205,
 							"height": 241,
 							"autoResize": false,
@@ -11055,6 +11055,144 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAFItgpDS8LDOIs="
 							}
+						},
+						{
+							"_type": "UMLIncludeView",
+							"_id": "AAAAAAFJISljOG1xrgs=",
+							"_parent": {
+								"$ref": "AAAAAAFItfspRaysDoY="
+							},
+							"model": {
+								"$ref": "AAAAAAFJISljOG1w4I0="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFJISljOG1yZI4=",
+									"_parent": {
+										"$ref": "AAAAAAFJISljOG1xrgs="
+									},
+									"model": {
+										"$ref": "AAAAAAFJISljOG1w4I0="
+									},
+									"visible": false,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"containerChangeable": false,
+									"containerExtending": true,
+									"left": 375,
+									"top": 232,
+									"width": 0,
+									"height": 13,
+									"autoResize": false,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAFJISljOG1xrgs="
+									},
+									"edgePosition": 1,
+									"horizontalAlignment": 2,
+									"verticalAlignment": 5
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFJISljOG1zSKc=",
+									"_parent": {
+										"$ref": "AAAAAAFJISljOG1xrgs="
+									},
+									"model": {
+										"$ref": "AAAAAAFJISljOG1w4I0="
+									},
+									"visible": true,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"containerChangeable": false,
+									"containerExtending": true,
+									"left": 404,
+									"top": 228,
+									"width": 55,
+									"height": 13,
+									"autoResize": false,
+									"alpha": 1.5796841413411986,
+									"distance": 70.178344238091,
+									"hostEdge": {
+										"$ref": "AAAAAAFJISljOG1xrgs="
+									},
+									"edgePosition": 1,
+									"text": "«include»",
+									"horizontalAlignment": 2,
+									"verticalAlignment": 5
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFJISljOG103i0=",
+									"_parent": {
+										"$ref": "AAAAAAFJISljOG1xrgs="
+									},
+									"model": {
+										"$ref": "AAAAAAFJISljOG1w4I0="
+									},
+									"visible": false,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"containerChangeable": false,
+									"containerExtending": true,
+									"left": 346,
+									"top": 233,
+									"width": 0,
+									"height": 13,
+									"autoResize": false,
+									"alpha": -1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAFJISljOG1xrgs="
+									},
+									"edgePosition": 1,
+									"horizontalAlignment": 2,
+									"verticalAlignment": 5
+								}
+							],
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": false,
+							"containerExtending": true,
+							"head": {
+								"$ref": "AAAAAAFItgQMtrDl2Wg="
+							},
+							"tail": {
+								"$ref": "AAAAAAFItgGdOLBFcOk="
+							},
+							"lineStyle": 1,
+							"points": "361.4166666666667:227;361.75:251",
+							"stereotypeDisplay": "label",
+							"showVisibility": true,
+							"showProperty": true,
+							"nameLabel": {
+								"$ref": "AAAAAAFJISljOG1yZI4="
+							},
+							"stereotypeLabel": {
+								"$ref": "AAAAAAFJISljOG1zSKc="
+							},
+							"propertyLabel": {
+								"$ref": "AAAAAAFJISljOG103i0="
+							}
 						}
 					]
 				},
@@ -11469,6 +11607,22 @@
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
 					"name": "Consult Status of Account",
+					"ownedElements": [
+						{
+							"_type": "UMLInclude",
+							"_id": "AAAAAAFJISljOG1w4I0=",
+							"_parent": {
+								"$ref": "AAAAAAFItgGdN7BEMNI="
+							},
+							"source": {
+								"$ref": "AAAAAAFItgGdN7BEMNI="
+							},
+							"target": {
+								"$ref": "AAAAAAFItgQMtbDkhCg="
+							},
+							"visibility": "public"
+						}
+					],
 					"visibility": "public",
 					"isAbstract": false,
 					"isFinalSpecification": false,
